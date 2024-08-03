@@ -193,6 +193,19 @@ fungus stats
   Total: 80
 ```
 
+#### wait
+
+Usage example:
+
+```
+fungus wait 5 min do something
+```
+
+```yml
+  @user do something
+```
+
+
 #### comment on
 
 Usage example:
