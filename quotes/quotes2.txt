@@ -1,0 +1,10 @@
+dogs 
+cats 
+monkeys 
+officials 
+clerks 
+americans 
+europeans 
+africans 
+people 
+*those* people 
