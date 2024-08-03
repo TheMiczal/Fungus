@@ -27,6 +27,8 @@ General purpose Discord bot, focused on bringing functionality to your server. A
 
 <!-- /TOC -->
 
+img src="screenshots/screen1.png">
+
 ## Installation
 
 ### Configuration
